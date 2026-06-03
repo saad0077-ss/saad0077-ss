@@ -74,9 +74,9 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&ring_color=f472b6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&ring_color=f472b6&cache_seconds=1800" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&langs_count=8&theme=tokyonight&border_radius=14&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&langs_count=8&theme=tokyonight&border_radius=14&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&cache_seconds=1800" height="180"/>
 
 </div>
 
@@ -140,23 +140,23 @@ class MuhammedSaad extends FlutterDeveloper {
 </td>
 </tr>
 </table>
-
+ 
 </div>
 
 ---
 
-## 💙 Skill Analytics
+## 💙 Skill Analytics 
 
 <div align="center">
 
-| Skill | Level | Score |
-|:------|:------|------:|
-| 💙 Flutter / Dart | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━%20%20%20%20-38bdf8?style=flat-square) | **90%** |
-| 🎨 UI / UX Design | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━%20%20%20%20%20-f472b6?style=flat-square) | **87%** |
-| 🔥 Firebase | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━%20%20%20%20%20%20-818cf8?style=flat-square) | **82%** |
-| 🌐 REST API | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━%20%20%20%20%20%20%20-fb923c?style=flat-square) | **79%** |
-| ⚙️ State Management | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━%20%20%20%20%20%20%20%20-4ade80?style=flat-square) | **76%** |
-| 🧪 Architecture | ![](https://img.shields.io/badge/━━━━━━━━━━━━━%20%20%20%20%20%20%20%20%20-a78bfa?style=flat-square) | **72%** |
+| Skill | Progress | Score |
+|:------|:---------|------:|
+| 💙 Flutter / Dart |    ![90%](https://progress-bar.xyz/90/?scale=100&width=220&color=38bdf8&suffix=%) | **90%** |
+| 🎨 UI / UX Design |    ![87%](https://progress-bar.xyz/87/?scale=100&width=220&color=f472b6&suffix=%) | **87%** |
+| 🔥 Firebase |    ![82%](https://progress-bar.xyz/82/?scale=100&width=220&color=818cf8&suffix=%) | **82%** |
+| 🌐 REST API |    ![79%](https://progress-bar.xyz/79/?scale=100&width=220&color=fb923c&suffix=%) | **79%** |
+| ⚙️ State Management |    ![76%](https://progress-bar.xyz/76/?scale=100&width=220&color=4ade80&suffix=%) | **76%** |
+| 🧪 Architecture |    ![72%](https://progress-bar.xyz/72/?scale=100&width=220&color=a78bfa&suffix=%) | **72%** |
 
 </div>
 
@@ -190,13 +190,13 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <div align="center">
 
-```
-🔷  Advanced Flutter Animations (Rive + Lottie)
-🔷  Clean Architecture & Domain-Driven Design
-🔷  Flutter Web — Responsive & PWA
-🔷  CI/CD Pipelines with GitHub Actions
-🔷  Accessibility & Performance Profiling
-```
+| | Topic | Focus Area |
+|:---:|:------|:-----------|
+| 🔷 | **Advanced Flutter Animations** | Rive + Lottie |
+| 🔷 | **Clean Architecture** | Domain-Driven Design |
+| 🔷 | **Flutter Web** | Responsive & PWA |
+| 🔷 | **CI/CD Pipelines** | GitHub Actions |
+| 🔷 | **Accessibility & Performance** | Profiling & Optimization |
 
 </div>
 
