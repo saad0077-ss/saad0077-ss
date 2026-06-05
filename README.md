@@ -154,13 +154,11 @@ class MuhammedSaad extends FlutterDeveloper {
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Activity Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d1117&color=38bdf8&line=818cf8&point=f472b6&area_color=38bdf8&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&theme=tokyo-night"/>    
+</p>
 
 ---
 
