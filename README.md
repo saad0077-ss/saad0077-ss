@@ -190,19 +190,26 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" valign="top">
+
+### 📈 Stats
 <a href="https://leetcode.com/_sa____ad_" target="_blank">
   <img src="https://leetcard.jacoblin.cool/_sa____ad_?theme=dark&font=Fira_Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
 </a>
 
-</div>
+</td>
+<td align="center" valign="top">
 
-<br/>
-
-### 🎖️ LeetCode Badges
-
-<a href="https://leetcode.com/saad0077-ss">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=_sa____ad_&theme=dark&animated=true" alt="LeetCode Badges" />
+### 🎖️ Badges
+<a href="https://leetcode.com/_sa____ad_" target="_blank">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=_sa____ad_&theme=dark&animated=true&border=0" alt="LeetCode Badges" />
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -241,7 +248,7 @@ class MuhammedSaad extends FlutterDeveloper {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammedsaadc)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedsaadc@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=safari&logoColor=white)](https://muhammedsaadc.dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saad0077-ss)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/_sa____ad_)
 
 </div>
 
