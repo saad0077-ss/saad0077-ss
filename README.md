@@ -74,8 +74,7 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <div align="center">
 
-<!-- ✅ FIXED STREAK — uses new reliable endpoint -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saad0077-ss&theme=tokyonight-duo&hide_border=true&border_radius=14&background=0d1117&cachebust=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saad0077-ss&theme=tokyonight-duo&hide_border=true&border_radius=14&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -133,12 +132,12 @@ class MuhammedSaad extends FlutterDeveloper {
 </td>
 </tr>
 </table>
- 
+
 </div>
 
 ---
 
-## 💙 Skill Analytics 
+## 💙 Skill Analytics
 
 <div align="center">
 
@@ -154,17 +153,19 @@ class MuhammedSaad extends FlutterDeveloper {
 </div>
 
 ---
- 
+
+
+
 ## 📊 GitHub Activity Graph
- 
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&theme=tokyo-night&area=true&hide_border=true&custom_title=Saad%27s%20Contribution%20Graph&cache_seconds=86400" alt="GitHub Activity Graph" />
 </p>
- 
+
 ---
- 
+
 ## 🐍 Contribution Snake
- 
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake-dark.svg" />
@@ -176,8 +177,50 @@ class MuhammedSaad extends FlutterDeveloper {
     />
   </picture>
 </div>
+
 ---
- 
+
+## 🧩 LeetCode Progress
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-saad0077--ss-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saad0077-ss)
+
+</div>
+
+<div align="center">
+
+<a href="https://leetcode.com/saad0077-ss" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/saad0077-ss?theme=dark&font=Fira_Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Problem Solving Breakdown
+
+| Difficulty | Status |
+|:-----------|:-------|
+| 🟢 Easy | ![Easy](https://img.shields.io/badge/Easy-Solved-00b8a3?style=flat-square&logo=leetcode&logoColor=white) |
+| 🟡 Medium | ![Medium](https://img.shields.io/badge/Medium-Solving-ffa116?style=flat-square&logo=leetcode&logoColor=white) |
+| 🔴 Hard | ![Hard](https://img.shields.io/badge/Hard-Attempting-ef4743?style=flat-square&logo=leetcode&logoColor=white) |
+
+</div>
+
+<div align="center">
+
+### 🎖️ LeetCode Badges
+
+<a href="https://leetcode.com/saad0077-ss">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=saad0077-ss&theme=dark&animated=true" alt="LeetCode Badges" />
+</a>
+
+</div>
+
+---
 
 ## 🌱 Currently Leveling Up
 
@@ -212,6 +255,7 @@ class MuhammedSaad extends FlutterDeveloper {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammedsaadc)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedsaadc@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=safari&logoColor=white)](https://muhammedsaadc.dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saad0077-ss)
 
 </div>
 
