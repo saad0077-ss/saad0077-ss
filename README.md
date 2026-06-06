@@ -1,7 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:818cf8,100:f472b6&height=220&section=header&text=Muhammed%20Saad%20C&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman%20%7C%20UI%20Enthusiast&descAlignY=58&descColor=bae6fd&animation=fadeIn"/>
-
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=220&section=header&text=Muhammed%20Saad%20C&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman%20%7C%20UI%20Enthusiast&descAlignY=58&descColor=888888&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -137,18 +136,17 @@ class MuhammedSaad extends FlutterDeveloper {
 
 ---
 
-## 💙 Skill Analytics
-
+## 💙 Skill Analytics      
 <div align="center">
 
 | Skill | Progress | Score |
 |:------|:---------|------:|
-| 💙 Flutter / Dart |    ![90%](https://progress-bar.xyz/90/?scale=100&width=220&color=38bdf8&suffix=%) | **90%** |
-| 🎨 UI / UX Design |    ![87%](https://progress-bar.xyz/87/?scale=100&width=220&color=f472b6&suffix=%) | **87%** |
-| 🔥 Firebase |    ![82%](https://progress-bar.xyz/82/?scale=100&width=220&color=818cf8&suffix=%) | **82%** |
-| 🌐 REST API |    ![79%](https://progress-bar.xyz/79/?scale=100&width=220&color=fb923c&suffix=%) | **79%** |
-| ⚙️ State Management |    ![76%](https://progress-bar.xyz/76/?scale=100&width=220&color=4ade80&suffix=%) | **76%** |
-| 🧪 Architecture |    ![72%](https://progress-bar.xyz/72/?scale=100&width=220&color=a78bfa&suffix=%) | **72%** |
+| 💙 Flutter / Dart | ![90%](https://progress-bar.xyz/90/?scale=100&width=650&color=38bdf8&suffix=%) | **90%** |
+| 🎨 UI / UX Design | ![87%](https://progress-bar.xyz/87/?scale=100&width=650&color=f472b6&suffix=%) | **87%** |
+| 🔥 Firebase | ![82%](https://progress-bar.xyz/82/?scale=100&width=650&color=818cf8&suffix=%) | **82%** |
+| 🌐 REST API | ![79%](https://progress-bar.xyz/79/?scale=100&width=650&color=fb923c&suffix=%) | **79%** |
+| ⚙️ State Management | ![76%](https://progress-bar.xyz/76/?scale=100&width=650&color=4ade80&suffix=%) | **76%** |
+| 🧪 Architecture | ![72%](https://progress-bar.xyz/72/?scale=100&width=650&color=a78bfa&suffix=%) | **72%** | 
 
 </div>
 
@@ -200,14 +198,14 @@ class MuhammedSaad extends FlutterDeveloper {
 </a>
 
 </td>
-<td align="center" valign="top">
+<!-- <td align="center" valign="top">
 
 ### 🎖️ Badges
 <a href="https://leetcode.com/_sa____ad_" target="_blank">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=_sa____ad_&theme=dark&animated=true&border=0" alt="LeetCode Badges" />
 </a>
 
-</td>
+</td> -->
 </tr>
 </table>
 
