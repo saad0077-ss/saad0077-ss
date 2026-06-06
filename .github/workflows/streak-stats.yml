@@ -2,8 +2,8 @@ name: Update Streak Stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # runs daily at 3 AM UTC
-  workflow_dispatch:        # manual trigger from Actions tab
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:        # manual trigger
 
 jobs:
   build:
@@ -18,17 +18,17 @@ jobs:
       - name: Create profile folder
         run: mkdir -p profile
 
-      - name: Download streak stats (dark theme)
+      - name: Download streak stats
         run: |
           curl -f -o profile/streak.svg \
             "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=tokyonight-duo&hide_border=true&border_radius=14&background=0d1117" \
-            || echo "⚠️ Streak stats fetch failed, keeping old file"
+            || echo "Fetch failed, keeping previous file"
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "chore: update streak stats [skip ci]"
           git push
