@@ -214,18 +214,18 @@ class MuhammedSaad extends FlutterDeveloper {
 ---
 
 ## 🌱 Currently Leveling Up
-
 <div align="center">
-
-| | Topic | Focus Area |
-|:---:|:------|:-----------|
-| 🔷 | **Advanced Flutter Animations** | Rive + Lottie |
-| 🔷 | **Clean Architecture** | Domain-Driven Design |
-| 🔷 | **Flutter Web** | Responsive & PWA |
-| 🔷 | **CI/CD Pipelines** | GitHub Actions |
-| 🔷 | **Accessibility & Performance** | Profiling & Optimization |
-
-</div>
+<table width="200%"> 
+<tr>
+<th></th><th align="left">Topic</th><th align="left">Focus Area</th>
+</tr>
+<tr><td>🔷</td><td><b>Advanced Flutter Animations</b></td><td>Rive + Lottie</td></tr>
+<tr><td>🔷</td><td><b>Clean Architecture</b></td><td>Domain-Driven Design</td></tr>
+<tr><td>🔷</td><td><b>Flutter Web</b></td><td>Responsive & PWA</td></tr>
+<tr><td>🔷</td><td><b>CI/CD Pipelines</b></td><td>GitHub Actions</td></tr>
+<tr><td>🔷</td><td><b>Accessibility & Performance</b></td><td>Profiling & Optimization</td></tr>
+</table>
+</div>  
 
 ---
 
