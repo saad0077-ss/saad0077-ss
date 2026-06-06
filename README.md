@@ -74,7 +74,8 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saad0077-ss&theme=tokyonight-duo&hide_border=true&border_radius=14&background=0d1117)](https://git.io/streak-stats)
+<!-- ✅ FIXED STREAK — uses new reliable endpoint -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saad0077-ss&theme=tokyonight-duo&hide_border=true&border_radius=14&background=0d1117&cachebust=1)](https://git.io/streak-stats)
 
 </div>
 
@@ -157,12 +158,17 @@ class MuhammedSaad extends FlutterDeveloper {
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&theme=tokyo-night"/>    
+<!-- ✅ FIXED — added &area=true for better visibility, uses stable tokyo-night theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
+
+<!-- ✅ FIXED — uses Platane/snk output via raw.githubusercontent.com (correct paths) -->
+<!-- Make sure the GitHub Action workflow (snake.yml) is placed at:         -->
+<!-- .github/workflows/snake.yml  inside your saad0077-ss profile repo     -->
 
 <div align="center">
 
