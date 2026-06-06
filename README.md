@@ -261,6 +261,6 @@ class MuhammedSaad extends FlutterDeveloper {
 
 ---
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:818cf8,100:38bdf8&height=130&section=footer&animation=fadeIn"/>
+<div align="center">   
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1a1a1a,100:000000&height=130&section=footer&animation=fadeIn"/>
 </div>
