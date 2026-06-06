@@ -154,33 +154,30 @@ class MuhammedSaad extends FlutterDeveloper {
 </div>
 
 ---
-
+ 
 ## 📊 GitHub Activity Graph
-
+ 
 <p align="center">
-<!-- ✅ FIXED — added &area=true for better visibility, uses stable tokyo-night theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&theme=tokyo-night&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&theme=tokyo-night&area=true&hide_border=true&custom_title=Saad%27s%20Contribution%20Graph&cache_seconds=86400" alt="GitHub Activity Graph" />
 </p>
-
+ 
 ---
-
+ 
 ## 🐍 Contribution Snake
-
-<!-- ✅ FIXED — uses Platane/snk output via raw.githubusercontent.com (correct paths) -->
-<!-- Make sure the GitHub Action workflow (snake.yml) is placed at:         -->
-<!-- .github/workflows/snake.yml  inside your saad0077-ss profile repo     -->
-
+ 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake.svg" />
+    <img
+      src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake-dark.svg"
+      alt="GitHub contribution grid snake animation"
+      width="100%"
+    />
+  </picture>
 </div>
-
 ---
+ 
 
 ## 🌱 Currently Leveling Up
 
