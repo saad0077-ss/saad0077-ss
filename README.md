@@ -184,38 +184,24 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-saad0077--ss-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saad0077-ss)
+[![LeetCode](https://img.shields.io/badge/LeetCode-_sa____ad_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/_sa____ad_)
 
 </div>
 
 <div align="center">
 
-<a href="https://leetcode.com/saad0077-ss" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/saad0077-ss?theme=dark&font=Fira_Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
+<a href="https://leetcode.com/_sa____ad_" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/_sa____ad_?theme=dark&font=Fira_Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
 </a>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-### 🏆 Problem Solving Breakdown
-
-| Difficulty | Status |
-|:-----------|:-------|
-| 🟢 Easy | ![Easy](https://img.shields.io/badge/Easy-Solved-00b8a3?style=flat-square&logo=leetcode&logoColor=white) |
-| 🟡 Medium | ![Medium](https://img.shields.io/badge/Medium-Solving-ffa116?style=flat-square&logo=leetcode&logoColor=white) |
-| 🔴 Hard | ![Hard](https://img.shields.io/badge/Hard-Attempting-ef4743?style=flat-square&logo=leetcode&logoColor=white) |
-
-</div>
-
-<div align="center">
-
 ### 🎖️ LeetCode Badges
 
 <a href="https://leetcode.com/saad0077-ss">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=saad0077-ss&theme=dark&animated=true" alt="LeetCode Badges" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=_sa____ad_&theme=dark&animated=true" alt="LeetCode Badges" />
 </a>
 
 </div>
