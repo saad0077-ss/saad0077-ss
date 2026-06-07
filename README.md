@@ -67,21 +67,16 @@ class MuhammedSaad extends FlutterDeveloper {
 
 </div>
 
----
-
 ## 📊 GitHub Stats
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saad0077-ss&theme=tokyonight-duo&hide_border=true&border_radius=14&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saad0077-ss&hide_border=true&border_radius=14&background=0D1117&ring=00E5FF&fire=00BCD4&currStreakLabel=00E5FF&sideLabels=00BCD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=546E7A&stroke=001F2B)](https://git.io/streak-stats)
 
-</div>
+</div>   
 
----
+## 🚀 Flutter Expertise        
 
-## 🚀 Flutter Expertise
-
-<div align="center">
+<div align="center">   
 
 <table>
 <tr>
