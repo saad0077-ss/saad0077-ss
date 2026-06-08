@@ -22,7 +22,7 @@
 class MuhammedSaad extends FlutterDeveloper {
   
   final String name     = "Muhammed Saad C";
-  final String role     = "Flutter Developer";
+  final String role     = "Flutter Developer";                 
   final String location = "Kerala, India 🌴";
   final String passion  = "Building pixel-perfect mobile experiences";
 
