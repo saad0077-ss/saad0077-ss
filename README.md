@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Building+next-gen+mobile+experiences+%F0%9F%93%B1;Flutter+enthusiast+from+Kerala%2C+India+%F0%9F%8C%B4;Pixel-perfect+UI+craftsman+%F0%9F%8E%A8;Turning+ideas+into+beautiful+apps+%E2%9C%A8;Open+to+collaborate+%26+create+%F0%9F%9A%80)](https://git.io/typing-svg)
    
-<br/>
+<br/>  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saad0077-ss&label=Profile+Views&color=38bdf8&style=flat-square)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/saad0077-ss?label=Followers&style=flat-square&color=818cf8)](https://github.com/saad0077-ss)
