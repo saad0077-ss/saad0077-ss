@@ -1,31 +1,44 @@
 name: Update Streak Stats
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"   # Slightly offset from midnight
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Create profile folder
         run: mkdir -p profile
-
-      - name: Download streak stats
+    
+      - name: Download streak stats 
         run: |
-          curl -f -o profile/streak.svg \
+          echo "Fetching streak for saad0077-ss..."
+          curl -f -L -o profile/streak.svg \
             "https://streak-stats.demolab.com?user=saad0077-ss&hide_border=true&border_radius=14&background=0D1117&ring=00E5FF&fire=00BCD4&currStreakLabel=00E5FF&sideLabels=00BCD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=546E7A&stroke=001F2B" \
-            || echo "Fetch failed, keeping previous file"
+            -H "Cache-Control: no-cache" || echo "❌ Fetch failed, keeping previous file"
+
+      - name: Show file size (debug)
+        run: ls -lh profile/streak.svg
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
           git add profile/streak.svg
-          git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "chore: update streak stats [skip ci]"
-          git push
+          
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+          else
+            git commit -m "chore: update streak stats [skip ci]"
+            git push
+            echo "✅ Streak stats updated and pushed"
+          fi
