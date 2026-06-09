@@ -147,8 +147,6 @@ class MuhammedSaad extends FlutterDeveloper {
 
 ---
 
-
-
 ## 📊 GitHub Activity Graph
 
 <p align="center">
