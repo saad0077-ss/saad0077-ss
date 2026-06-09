@@ -1,21 +1,21 @@
 name: Generate Snake Animation
- 
+
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours (was 12 — faster refresh)
-  workflow_dispatch:          # manual trigger
- 
+    - cron: "*/30 * * * *"   # Runs every 30 minutes
+  workflow_dispatch:         # Allows manual trigger
+
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
- 
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
- 
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,7 +23,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
- 
+
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -31,4 +31,3 @@ jobs:
           publish_branch: output
           publish_dir: dist
           force_orphan: true
- 
