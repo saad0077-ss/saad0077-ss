@@ -2,7 +2,8 @@ name: Update Streak Stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # Slightly offset from midnight
+    - cron: "0 3 * * *"    # 3:00 AM UTC (8:30 AM IST)
+    - cron: "0 15 * * *"   # 3:00 PM UTC (8:30 PM IST)
   workflow_dispatch:
 
 jobs:
@@ -10,15 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Create profile folder
         run: mkdir -p profile
-    
-      - name: Download streak stats 
+
+      - name: Download streak stats
         run: |
           echo "Fetching streak for saad0077-ss..."
           curl -f -L -o profile/streak.svg \
