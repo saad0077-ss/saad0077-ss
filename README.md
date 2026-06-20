@@ -74,7 +74,7 @@ class MuhammedSaad extends FlutterDeveloper {
 
 </div>
 
-## 🚀 Flutter Expertise        
+## 🚀 Flutter Expertise          
 
 <div align="center">   
 
