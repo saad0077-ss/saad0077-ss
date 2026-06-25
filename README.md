@@ -117,7 +117,7 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <br/><br/>
 
-<img src="./profile/streak.svg" alt="GitHub Streak" />
+<img src="./profile/streak.svg" alt="GitHub Streak" /> 
 
 <br/><br/>
 
