@@ -18,10 +18,11 @@ M  U  H  A  M  M  E  D     S  A  A  D     C
 
 <br/>
 
-[![](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=flat&logo=linkedin&logoColor=54C5F8)](https://www.linkedin.com/in/muhammed-saad-c/)&nbsp;
+[![](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=flat&logo=linkedIn&logoColor=54C5F8)](https://www.linkedin.com/in/muhammed-saad-c/)&nbsp;
 [![](https://img.shields.io/badge/-LeetCode-0a0a0f?style=flat&logo=leetcode&logoColor=ffa116)](https://leetcode.com/_sa____ad_)&nbsp; 
 [![](https://img.shields.io/badge/-Gmail-0a0a0f?style=flat&logo=gmail&logoColor=ea4335)](mailto:muhammedsaad007700@gmail.com)&nbsp;
 [![](https://img.shields.io/badge/-Portfolio-0a0a0f?style=flat&logo=safari&logoColor=54C5F8)](https://saad00.vercel.app/)
+[![](https://img.shields.io/badge/-Instagram-0a0a0f?style=flat&logo=instagram&logoColor=54C5F8)](https://www.instagram.com/_sa.___.ad_/)  
  
 </div>
 
