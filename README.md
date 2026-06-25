@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="profile/github_banner.png" alt="Hi, I'm Muhammed Saad C — A Flutter Developer in Making" />
+<img width="100%" src="profile/github_banner.png" alt="Hi, I'm Muhammed Saad C — Flutter Developer" />
 
 <br/>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&pause=3000&color=888899&center=true&vCenter=true&width=300&lines=Flutter+Developer+%C2%B7+Kerala%2C+India" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&pause=3000&color=888899&center=true&vCenter=true&width=300&lines=Flutter+Developer+%C2%B7+Kerala%2C+India" alt="Flutter Developer · Kerala, India" />
 </picture>
 
 <br/><br/>
@@ -18,12 +18,14 @@ M  U  H  A  M  M  E  D     S  A  A  D     C
 
 <br/>
 
-[![](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=flat&logo=linkedIn&logoColor=54C5F8)](https://www.linkedin.com/in/muhammed-saad-c/)&nbsp;
-[![](https://img.shields.io/badge/-LeetCode-0a0a0f?style=flat&logo=leetcode&logoColor=ffa116)](https://leetcode.com/_sa____ad_)&nbsp; 
-[![](https://img.shields.io/badge/-Gmail-0a0a0f?style=flat&logo=gmail&logoColor=ea4335)](mailto:muhammedsaad007700@gmail.com)&nbsp;
-[![](https://img.shields.io/badge/-Portfolio-0a0a0f?style=flat&logo=safari&logoColor=54C5F8)](https://saad00.vercel.app/)
-[![](https://img.shields.io/badge/-Instagram-0a0a0f?style=flat&logo=instagram&logoColor=54C5F8)](https://www.instagram.com/_sa.___.ad_/)  
- 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=flat&logo=linkedIn&logoColor=54C5F8)](https://www.linkedin.com/in/muhammed-saad-c/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0a0a0f?style=flat&logo=leetcode&logoColor=ffa116)](https://leetcode.com/_sa____ad_)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-0a0a0f?style=flat&logo=gmail&logoColor=ea4335)](mailto:muhammedsaad007700@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0f?style=flat&logo=safari&logoColor=54C5F8)](https://saad00.vercel.app/)&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-0a0a0f?style=flat&logo=instagram&logoColor=54C5F8)](https://www.instagram.com/_sa.___.ad_/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=saad0077-ss&color=13B9FD&style=flat&label=profile+views)
+
 </div>
 
 <br/>
@@ -102,22 +104,24 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <br/>
 
-<div align="center"><sub>GITHUB</sub></div>
+<div align="center"><sub>GITHUB STATS</sub></div>
 
 <br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&ring_color=13B9FD&count_private=true&hide_title=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=8" />
+<!-- Auto-updated every 6 hours via GitHub Actions workflow -->
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&ring_color=13B9FD&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=6&card_width=260" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saad0077-ss&hide_border=true&background=0d0d14&ring=13B9FD&fire=54C5F8&currStreakLabel=13B9FD&sideLabels=ccccdd&dates=888899&currStreakNum=ffffff&sideNums=ffffff&stroke=0d0d14" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saad0077-ss&hide_border=true&background=0d0d14&ring=13B9FD&fire=54C5F8&currStreakLabel=13B9FD&sideLabels=ccccdd&dates=888899&currStreakNum=ffffff&sideNums=ffffff&stroke=0d0d14" width="62%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=13B9FD&line=13B9FD&point=ffffff&area=true&area_color=02569B&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=13B9FD&line=13B9FD&point=ffffff&area=true&area_color=02569B&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -136,23 +140,23 @@ class MuhammedSaad extends FlutterDeveloper {
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total_Solved-191-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" />
+      <img src="https://img.shields.io/badge/Total_Solved-191-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" alt="Total Solved" />
     </td>
   </tr>
   <tr><td align="center">&nbsp;</td></tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Easy-145-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" />
+      <img src="https://img.shields.io/badge/Easy-145-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Easy" />
       &nbsp;
-      <img src="https://img.shields.io/badge/Medium-34-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" />
+      <img src="https://img.shields.io/badge/Medium-34-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Medium" />
       &nbsp;
-      <img src="https://img.shields.io/badge/Hard-12-EF4743?style=flat-square&labelColor=0d0d14&color=0d0d14" />
+      <img src="https://img.shields.io/badge/Hard-12-EF4743?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Hard" />
     </td>
   </tr>
   <tr><td align="center">&nbsp;</td></tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Global_Rank-%23844%2C679-02569B?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d0d14&color=0d0d14" />
+      <img src="https://img.shields.io/badge/Global_Rank-%23844%2C679-02569B?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d0d14&color=0d0d14" alt="Global Rank" />
     </td>
   </tr>
 </table>
@@ -160,7 +164,7 @@ class MuhammedSaad extends FlutterDeveloper {
 <br/>
 
 <a href="https://leetcode.com/_sa____ad_">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="110" title="50 Days Badge"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="110" title="50 Days Badge" alt="LeetCode 50 Days Badge"/>
 </a>
 
 </div>
@@ -173,16 +177,12 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=saad0077-ss&color=13B9FD&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<sub>Kerala, India &nbsp;·&nbsp; muhammedsaadc@gmail.com &nbsp;·&nbsp; open to collaborate</sub>
+<sub>Kerala, India &nbsp;·&nbsp; muhammedsaad007700@gmail.com &nbsp;·&nbsp; open to collaborate</sub>
 
 <br/><br/>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=9999&color=556070&center=true&vCenter=true&width=300&lines=crafted+with+%F0%9F%92%99+%26+Flutter+%C2%B7+2026" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=9999&color=556070&center=true&vCenter=true&width=300&lines=crafted+with+%F0%9F%92%99+%26+Flutter+%C2%B7+2026" alt="crafted with 💙 & Flutter · 2026" />
 </picture>
 
 </div>
