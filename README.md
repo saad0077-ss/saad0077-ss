@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://via.placeholder.com/1200x300?text=Hi,+I'm+Muhammed+Saad+C" alt="Header" />
+<img width="100%" src="profile/github_banner.png" alt="Hi, I'm Muhammed Saad C — A Flutter Developer in Making" />
 
 <br/>
 
