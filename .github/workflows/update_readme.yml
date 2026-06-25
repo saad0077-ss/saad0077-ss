@@ -1,0 +1,66 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allow manual trigger from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    name: Refresh GitHub Stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # ── 1. Check out your profile repo ──────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── 2. Warm up the github-readme-stats cache ─────────────────────
+      # Pinging the API endpoints causes Vercel to re-fetch your data
+      # so the SVG images are fresh when GitHub renders your README.
+      - name: Warm stats cache
+        run: |
+          echo "Pinging github-readme-stats..."
+          curl -s "https://github-readme-stats.vercel.app/api?username=saad0077-ss&count_private=true&include_all_commits=true" -o /dev/null
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&langs_count=6" -o /dev/null
+          echo "Pinging streak stats..."
+          curl -s "https://github-readme-streak-stats.herokuapp.com?user=saad0077-ss" -o /dev/null
+          echo "Done."
+
+      # ── 3. Update the last-refreshed timestamp in README ──────────────
+      # This makes a tiny commit so GitHub re-renders the profile page,
+      # busting any CDN cache on the image embeds.
+      - name: Bump last-updated timestamp
+        run: |
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+
+          # Replace the timestamp line if it already exists, otherwise append
+          if grep -q "<!-- last-updated:" README.md; then
+            sed -i "s|<!-- last-updated:.*-->|<!-- last-updated: $TIMESTAMP -->|" README.md
+          else
+            echo "" >> README.md
+            echo "<!-- last-updated: $TIMESTAMP -->" >> README.md
+          fi
+
+      # ── 4. Commit & push only when something changed ──────────────────
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          # Only commit if there's a diff; skip if nothing changed
+          git diff --staged --quiet || git commit -m "chore: refresh stats [skip ci]"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
