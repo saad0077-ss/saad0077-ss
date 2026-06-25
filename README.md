@@ -1,56 +1,59 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:13B9FD,100:54C5F8&height=180&section=header&text=Muhammed%20Saad%20C&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Flutter%20%26%20Dart%20Developer%20%C2%B7%20Kerala,%20India&descAlignY=58&descSize=16&animation=fadeIn"/>
+
 <br/>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&pause=3000&color=888899&center=true&vCenter=true&width=320&lines=Flutter+Developer+%C2%B7+Kerala%2C+India" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2500&color=13B9FD&center=true&vCenter=true&width=480&lines=Building+beautiful+cross-platform+apps;Clean+Architecture+%E2%80%A2+MVVM+%E2%80%A2+Repository+Pattern;Solving+DSA+problems+daily;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </picture>
 
 <br/><br/>
 
-```
-M  U  H  A  M  M  E  D     S  A  A  D     C
-```
-
-<sub><sup>FLUTTER & DART SPECIALIST &nbsp;·&nbsp; UI CRAFTSMAN &nbsp;·&nbsp; PROBLEM SOLVER</sup></sub>
-
-<br/>
-
-[![](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=flat&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/muhammedsaadc)&nbsp;
-[![](https://img.shields.io/badge/-LeetCode-0a0a0f?style=flat&logo=leetcode&logoColor=ffa116)](https://leetcode.com/_sa____ad_)&nbsp;
-[![](https://img.shields.io/badge/-Gmail-0a0a0f?style=flat&logo=gmail&logoColor=ea4335)](mailto:muhammedsaadc@gmail.com)&nbsp;
-[![](https://img.shields.io/badge/-Portfolio-0a0a0f?style=flat&logo=safari&logoColor=38bdf8)](https://muhammedsaadc.dev)&nbsp;
-[![](https://img.shields.io/badge/-Instagram-0a0a0f?style=flat&logo=instagram&logoColor=E4405F)](https://instagram.com/muhammedsaadc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-02569B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsaadc)
+[![LeetCode](https://img.shields.io/badge/LeetCode-02569B?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/_sa____ad_)
+[![Gmail](https://img.shields.io/badge/Gmail-02569B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:muhammedsaadc@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=safari&logoColor=white)](https://muhammedsaadc.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-02569B?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/muhammedsaadc)
 
 </div>
 
 <br/>
 
----
+<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
 
 <br/>
 
+## 🦋 About Me
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-**About**
+I craft **pixel-perfect, performant mobile experiences** with Flutter — where clean architecture and thoughtful UI design work hand in hand.
 
-I craft pixel-perfect mobile experiences with Flutter. I believe clean architecture and thoughtful UI are two sides of the same coin.
-
-Currently focused on building polished cross-platform apps and sharpening my problem-solving skills daily on LeetCode.
+🔭 Currently building polished, production-grade Flutter apps
+🧠 Sharpening problem-solving skills daily on LeetCode
+🌱 Deepening my knowledge of Clean Architecture & scalable app design
+🤝 Open to **collaboration**, freelance work, and interesting ideas
+📍 Based in **Kerala, India**
 
 </td>
-<td width="10%"></td>
-<td width="40%" valign="top">
+<td width="4%"></td>
+<td width="38%" valign="top">
 
-**Now**
+```yaml
+developer:
+  name: Muhammed Saad C
+  role: Flutter Developer
+  focus: Cross-platform Apps
+  status: Open to Collaborate
+  base: Kerala, India
 
-```
-→  Building  · Flutter apps
-→  Learning  · Clean Architecture
-→  Solving   · LeetCode daily
-→  Status    · Open to collaborate
+now:
+  building: Flutter Apps
+  learning: Clean Architecture
+  solving: LeetCode Daily
 ```
 
 </td>
@@ -59,121 +62,99 @@ Currently focused on building polished cross-platform apps and sharpening my pro
 
 <br/>
 
----
+<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
 
 <br/>
 
-<div align="center"><sub>STACK</sub></div>
-
-<br/>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Mobile**
+#### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Android Studio](https://img.shields.io/badge/Android_Studio-02569B?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 
-![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=02569B)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=flat-square&logo=dart&logoColor=0175C2)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android_Studio-1a1a2e?style=flat-square&logo=android-studio&logoColor=3DDC84)
+#### State Management
+![Provider](https://img.shields.io/badge/Provider-1a1a2e?style=for-the-badge&logo=flutter&logoColor=818cf8)
+![Riverpod](https://img.shields.io/badge/Riverpod-1a1a2e?style=for-the-badge&logo=flutter&logoColor=00B4D8)
+![GetX](https://img.shields.io/badge/GetX-1a1a2e?style=for-the-badge&logo=flutter&logoColor=8B5CF6)
+![BLoC](https://img.shields.io/badge/BLoC-1a1a2e?style=for-the-badge&logo=flutter&logoColor=6366F1)
 
-<br/>
+#### Backend & Data
+![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Firestore](https://img.shields.io/badge/Firestore-1a1a2e?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=07405e)
+![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=FF6B35)
 
-**State Management**
+#### Architecture & Practices
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=for-the-badge&logo=buffer&logoColor=4ade80)
+![MVVM](https://img.shields.io/badge/MVVM-1a1a2e?style=for-the-badge&logo=buffer&logoColor=4ade80)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-1a1a2e?style=for-the-badge&logo=buffer&logoColor=4ade80)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-1a1a2e?style=for-the-badge&logo=buffer&logoColor=4ade80)
 
-![Provider](https://img.shields.io/badge/Provider-1a1a2e?style=flat-square&logo=flutter&logoColor=818cf8)&nbsp;
-![Riverpod](https://img.shields.io/badge/Riverpod-1a1a2e?style=flat-square&logo=flutter&logoColor=00B4D8)&nbsp;
-![GetX](https://img.shields.io/badge/GetX-1a1a2e?style=flat-square&logo=flutter&logoColor=8B5CF6)&nbsp;
-![BLoC](https://img.shields.io/badge/BLoC-1a1a2e?style=flat-square&logo=flutter&logoColor=6366F1)
-
-<br/>
-
-**Backend & Data**
-
-![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28)&nbsp;
-![Firestore](https://img.shields.io/badge/Firestore-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=flat-square&logo=sqlite&logoColor=07405e)&nbsp;
-![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=flat-square&logo=fastapi&logoColor=FF6B35)
-
-<br/>
-
-**Architecture**
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=flat-square&logo=buffer&logoColor=4ade80)&nbsp;
-![MVVM](https://img.shields.io/badge/MVVM-1a1a2e?style=flat-square&logo=buffer&logoColor=4ade80)&nbsp;
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-1a1a2e?style=flat-square&logo=buffer&logoColor=4ade80)&nbsp;
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-1a1a2e?style=flat-square&logo=buffer&logoColor=4ade80)
-
-<br/>
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05033)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=flat-square&logo=postman&logoColor=FF6C37)&nbsp;
-![DSA](https://img.shields.io/badge/DSA-1a1a2e?style=flat-square&logo=leetcode&logoColor=FFA116)
+#### Tools & Design
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05033)
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![DSA](https://img.shields.io/badge/DSA-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)
 
 </div>
 
 <br/>
 
----
+<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
 
 <br/>
 
-<div align="center"><sub>GITHUB</sub></div>
-
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=ccccdd&icon_color=38bdf8&text_color=888899&ring_color=38bdf8&count_private=true&hide_title=true" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=ccccdd&text_color=888899&hide_title=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&ring_color=13B9FD&count_private=true&hide_title=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saad0077-ss&hide_border=true&background=0d0d14&ring=38bdf8&fire=38bdf8&currStreakLabel=ccccdd&sideLabels=888899&dates=555566&currStreakNum=ccccdd&sideNums=ccccdd&stroke=0d0d14" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saad0077-ss&hide_border=true&background=0d0d14&ring=13B9FD&fire=54C5F8&currStreakLabel=13B9FD&sideLabels=ccccdd&dates=888899&currStreakNum=ffffff&sideNums=ffffff&stroke=0d0d14" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=13B9FD&line=13B9FD&point=ffffff&area=true&area_color=02569B&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
 <br/>
 
----
+<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
 
 <br/>
 
-<div align="center"><sub>LEETCODE</sub></div>
-
-<br/>
+## 🧩 LeetCode Progress
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total_Solved-191-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d0d14&color=0d0d14" />
+      <img src="https://img.shields.io/badge/Total_Solved-191-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" />
     </td>
-  </tr>
-  <tr><td align="center">&nbsp;</td></tr>
-  <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Easy-145-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Medium-34-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Hard-12-EF4743?style=flat-square&labelColor=0d0d14&color=0d0d14" />
-    </td>
-  </tr>
-  <tr><td align="center">&nbsp;</td></tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Global_Rank-%23844%2C679-38bdf8?style=flat-square&logo=leetcode&logoColor=38bdf8&labelColor=0d0d14&color=0d0d14" />
+      <img src="https://img.shields.io/badge/Global_Rank-%23844%2C679-02569B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- 50 Days Badge -->
+<img src="https://img.shields.io/badge/Easy-145-00b8a3?style=for-the-badge&labelColor=0d0d14" />
+&nbsp;
+<img src="https://img.shields.io/badge/Medium-34-FFC01E?style=for-the-badge&labelColor=0d0d14" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hard-12-EF4743?style=for-the-badge&labelColor=0d0d14" />
+
+<br/><br/>
+
 <a href="https://leetcode.com/_sa____ad_">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="110" title="50 Days Badge"/>
 </a>
@@ -182,38 +163,26 @@ Currently focused on building polished cross-platform apps and sharpening my pro
 
 <br/>
 
----
-
-<br/>
-
-<div align="center"><sub>CONTRIBUTION GRAPH</sub></div>
+<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=38bdf8&line=38bdf8&point=ccccdd&area=true&area_color=1a2a4a&hide_border=true" width="92%"/>
+### 📫 Let's Build Something Together
 
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saad0077-ss&color=38bdf8&style=flat&label=visitors"/>
+<img src="https://komarev.com/ghpvc/?username=saad0077-ss&color=13B9FD&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<sub>Kerala, India &nbsp;·&nbsp; muhammedsaadc@gmail.com &nbsp;·&nbsp; open to collaborate</sub>
+<sub>📍 Kerala, India &nbsp;·&nbsp; ✉️ muhammedsaadc@gmail.com &nbsp;·&nbsp; 🟢 open to collaborate</sub>
 
 <br/><br/>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=12&pause=9999&color=333344&center=true&vCenter=true&width=300&lines=crafted+with+care+%C2%B7+2026" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=9999&color=556070&center=true&vCenter=true&width=300&lines=crafted+with+%F0%9F%92%99+%26+Flutter+%C2%B7+2026" alt="" />
 </picture>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:54C5F8,50:13B9FD,100:02569B&height=100&section=footer"/>
