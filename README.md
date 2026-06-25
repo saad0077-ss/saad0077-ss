@@ -5,7 +5,7 @@
 <br/>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&pause=3000&color=888899&center=true&vCenter=true&width=300&lines=Flutter+Developer+%C2%B7+Kerala%2C+India" alt="Flutter Developer · Kerala, India" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&pause=3000&color=888899&center=true&vCenter=true&width=300&lines=Flutter+Developer+%C2%B7+Kerala%2C+India" alt="typing svg" />
 </picture>
 
 <br/><br/>                
@@ -112,16 +112,16 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <!-- Auto-updated every 6 hours via GitHub Actions workflow -->
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&ring_color=13B9FD&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=6&card_width=260" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&ring_color=13B9FD" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=6&card_width=320" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saad0077-ss&hide_border=true&background=0d0d14&ring=13B9FD&fire=54C5F8&currStreakLabel=13B9FD&sideLabels=ccccdd&dates=888899&currStreakNum=ffffff&sideNums=ffffff&stroke=0d0d14" width="62%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saad0077-ss&hide_border=true&background=0d0d14&ring=13B9FD&fire=54C5F8&currStreakLabel=13B9FD&sideLabels=ccccdd&dates=888899&currStreakNum=13B9FD" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=13B9FD&line=13B9FD&point=ffffff&area=true&area_color=02569B&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=13B9FD&line=13B9FD&point=ffffff&area=true&area_color=02569B&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
@@ -182,7 +182,7 @@ class MuhammedSaad extends FlutterDeveloper {
 <br/><br/>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=9999&color=556070&center=true&vCenter=true&width=300&lines=crafted+with+%F0%9F%92%99+%26+Flutter+%C2%B7+2026" alt="crafted with 💙 & Flutter · 2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=9999&color=556070&center=true&vCenter=true&width=300&lines=crafted+with+%F0%9F%92%99+%26+Flutter+%C2%B7+2024" alt="footer typing svg" />
 </picture>
 
 </div>
