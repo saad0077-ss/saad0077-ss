@@ -1,59 +1,55 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:13B9FD,100:54C5F8&height=180&section=header&text=Muhammed%20Saad%20C&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Flutter%20%26%20Dart%20Developer%20%C2%B7%20Kerala,%20India&descAlignY=58&descSize=16&animation=fadeIn"/>
-
 <br/>
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2500&color=13B9FD&center=true&vCenter=true&width=480&lines=Building+beautiful+cross-platform+apps;Clean+Architecture+%E2%80%A2+MVVM+%E2%80%A2+Repository+Pattern;Solving+DSA+problems+daily;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&pause=3000&color=888899&center=true&vCenter=true&width=300&lines=Flutter+Developer+%C2%B7+Kerala%2C+India" alt="" />
 </picture>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-02569B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsaadc)
-[![LeetCode](https://img.shields.io/badge/LeetCode-02569B?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/_sa____ad_)
-[![Gmail](https://img.shields.io/badge/Gmail-02569B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:muhammedsaadc@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=safari&logoColor=white)](https://muhammedsaadc.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-02569B?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/muhammedsaadc)
+```
+M  U  H  A  M  M  E  D     S  A  A  D     C
+```
+
+<sub><sup>FLUTTER SPECIALIST &nbsp;·&nbsp; PROBLEM SOLVER &nbsp;·&nbsp; BUILDER</sup></sub>
+
+<br/>
+
+[![](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=flat&logo=linkedin&logoColor=54C5F8)](https://linkedin.com/in/muhammedsaadc)&nbsp;
+[![](https://img.shields.io/badge/-LeetCode-0a0a0f?style=flat&logo=leetcode&logoColor=ffa116)](https://leetcode.com/_sa____ad_)&nbsp;
+[![](https://img.shields.io/badge/-Gmail-0a0a0f?style=flat&logo=gmail&logoColor=ea4335)](mailto:muhammedsaadc@gmail.com)&nbsp;
+[![](https://img.shields.io/badge/-Portfolio-0a0a0f?style=flat&logo=safari&logoColor=54C5F8)](https://muhammedsaadc.dev)
 
 </div>
 
 <br/>
 
-<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
+---
 
 <br/>
 
-## 🦋 About Me
-
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-I craft **pixel-perfect, performant mobile experiences** with Flutter — where clean architecture and thoughtful UI design work hand in hand.
+**About**
 
-🔭 Currently building polished, production-grade Flutter apps
-🧠 Sharpening problem-solving skills daily on LeetCode
-🌱 Deepening my knowledge of Clean Architecture & scalable app design
-🤝 Open to **collaboration**, freelance work, and interesting ideas
-📍 Based in **Kerala, India**
+I craft pixel-perfect, performant mobile experiences with Flutter — where clean architecture and thoughtful UI design work hand in hand.
+
+Currently focused on building scalable applications and sharpening my problem-solving skills daily on LeetCode.
 
 </td>
-<td width="4%"></td>
-<td width="38%" valign="top">
+<td width="10%"></td>
+<td width="40%" valign="top">
 
-```yaml
-developer:
-  name: Muhammed Saad C
-  role: Flutter Developer
-  focus: Cross-platform Apps
-  status: Open to Collaborate
-  base: Kerala, India
+**Now**
 
-now:
-  building: Flutter Apps
-  learning: Clean Architecture
-  solving: LeetCode Daily
+```
+→  Building  · Flutter Apps
+→  Learning  · Clean Arch
+→  Solving   · LeetCode
+→  Status    · Open to work
 ```
 
 </td>
@@ -62,11 +58,13 @@ now:
 
 <br/>
 
-<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
+---
 
 <br/>
 
-## 🛠️ Tech Stack
+<div align="center"><sub>TECH STACK</sub></div>
+
+<br/>
 
 <div align="center">
 
@@ -103,11 +101,13 @@ now:
 
 <br/>
 
-<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
+---
 
 <br/>
 
-## 📊 GitHub Analytics
+<div align="center"><sub>GITHUB</sub></div>
+
+<br/>
 
 <div align="center">
 
@@ -126,11 +126,13 @@ now:
 
 <br/>
 
-<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
+---
 
 <br/>
 
-## 🧩 LeetCode Progress
+<div align="center"><sub>LEETCODE</sub></div>
+
+<br/>
 
 <div align="center">
 
@@ -139,21 +141,26 @@ now:
     <td align="center">
       <img src="https://img.shields.io/badge/Total_Solved-191-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" />
     </td>
+  </tr>
+  <tr><td align="center">&nbsp;</td></tr>
+  <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Global_Rank-%23844%2C679-02569B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" />
+      <img src="https://img.shields.io/badge/Easy-145-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Medium-34-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Hard-12-EF4743?style=flat-square&labelColor=0d0d14&color=0d0d14" />
+    </td>
+  </tr>
+  <tr><td align="center">&nbsp;</td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Global_Rank-%23844%2C679-02569B?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d0d14&color=0d0d14" />
     </td>
   </tr>
 </table>
 
 <br/>
-
-<img src="https://img.shields.io/badge/Easy-145-00b8a3?style=for-the-badge&labelColor=0d0d14" />
-&nbsp;
-<img src="https://img.shields.io/badge/Medium-34-FFC01E?style=for-the-badge&labelColor=0d0d14" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hard-12-EF4743?style=for-the-badge&labelColor=0d0d14" />
-
-<br/><br/>
 
 <a href="https://leetcode.com/_sa____ad_">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="110" title="50 Days Badge"/>
@@ -163,19 +170,17 @@ now:
 
 <br/>
 
-<picture><img width="100%" height="2" src="https://img.shields.io/badge/-13B9FD?style=flat-square"/></picture>
+---
 
 <br/>
 
 <div align="center">
 
-### 📫 Let's Build Something Together
-
 <img src="https://komarev.com/ghpvc/?username=saad0077-ss&color=13B9FD&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<sub>📍 Kerala, India &nbsp;·&nbsp; ✉️ muhammedsaadc@gmail.com &nbsp;·&nbsp; 🟢 open to collaborate</sub>
+<sub>Kerala, India &nbsp;·&nbsp; muhammedsaadc@gmail.com &nbsp;·&nbsp; open to collaborate</sub>
 
 <br/><br/>
 
@@ -184,5 +189,3 @@ now:
 </picture>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:54C5F8,50:13B9FD,100:02569B&height=100&section=footer"/>
