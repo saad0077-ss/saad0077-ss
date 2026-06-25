@@ -1,174 +1,141 @@
-<div align="center">       
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=220&section=header&text=Muhammed%20Saad%20C&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman%20%7C%20UI%20Enthusiast&descAlignY=58&descColor=888888&animation=fadeIn"/>   
-</div>                                                                                                     
-           
 <div align="center">
-                                 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Building+next-gen+mobile+experiences+%F0%9F%93%B1;Flutter+enthusiast+from+Kerala%2C+India+%F0%9F%8C%B4;Pixel-perfect+UI+craftsman+%F0%9F%8E%A8;Turning+ideas+into+beautiful+apps+%E2%9C%A8;Open+to+collaborate+%26+create+%F0%9F%9A%80)](https://git.io/typing-svg)
-   
-<br/>  
 
-![Profile Views](https://komarev.com/ghpvc/?username=saad0077-ss&label=Profile+Views&color=38bdf8&style=flat-square)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/saad0077-ss?label=Followers&style=flat-square&color=818cf8)](https://github.com/saad0077-ss)
+<br/>
 
-</div>
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&pause=3000&color=888899&center=true&vCenter=true&width=320&lines=Flutter+Developer+%C2%B7+Kerala%2C+India" alt="" />
+</picture>
 
----
-       
-## 🧠 About Me
-                                                                                 
-```dart                             
-class MuhammedSaad extends FlutterDeveloper {
-  
-  final String name     = "Muhammed Saad C";
-  final String role     = "Flutter Developer";                 
-  final String location = "Kerala, India 🌴";
-  final String passion  = "Building pixel-perfect mobile experiences";
+<br/><br/>
 
-  List<String> get superpowers => [
-    "📱 Crafting beautiful, smooth Flutter UIs",
-    "🔥 Firebase & real-time app architecture",
-    "🎯 State management (GetX / Riverpod / BLoC)",
-    "⚡ App performance optimization",
-    "🎨 Turning Figma designs into living UIs",
-  ];
-
-  String toString() => "Code 💙 Create 🚀 Contribute ✨";
-}
+```
+M  U  H  A  M  M  E  D     S  A  A  D     C
 ```
 
+<sub><sup>FLUTTER & DART SPECIALIST &nbsp;·&nbsp; UI CRAFTSMAN &nbsp;·&nbsp; PROBLEM SOLVER</sup></sub>
+
+<br/>
+
+[![](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=flat&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/muhammedsaadc)&nbsp;
+[![](https://img.shields.io/badge/-LeetCode-0a0a0f?style=flat&logo=leetcode&logoColor=ffa116)](https://leetcode.com/_sa____ad_)&nbsp;
+[![](https://img.shields.io/badge/-Gmail-0a0a0f?style=flat&logo=gmail&logoColor=ea4335)](mailto:muhammedsaadc@gmail.com)&nbsp;
+[![](https://img.shields.io/badge/-Portfolio-0a0a0f?style=flat&logo=safari&logoColor=38bdf8)](https://muhammedsaadc.dev)&nbsp;
+[![](https://img.shields.io/badge/-Instagram-0a0a0f?style=flat&logo=instagram&logoColor=E4405F)](https://instagram.com/muhammedsaadc)
+
+</div>
+
+<br/>
+
 ---
 
-## 🛠️ Tech Arsenal
+<br/>
 
-<div align="center">
-
-### 📱 Core
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🔥 Backend & Data
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### ⚙️ State Management
-![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-6366F1?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="./profile/streak.svg" alt="GitHub Streak" />
-
-</div>
-
-## 🚀 Flutter Expertise          
-
-<div align="center">   
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🎨 UI Craft
-![](https://img.shields.io/badge/Custom_Widgets-38bdf8?style=flat-square)
-![](https://img.shields.io/badge/Hero_Animations-38bdf8?style=flat-square)
-![](https://img.shields.io/badge/Custom_Painter-38bdf8?style=flat-square)
-![](https://img.shields.io/badge/Lottie-38bdf8?style=flat-square)
-![](https://img.shields.io/badge/Material_3-38bdf8?style=flat-square)
-![](https://img.shields.io/badge/Responsive_UI-38bdf8?style=flat-square)
+**About**
+
+I craft pixel-perfect mobile experiences with Flutter. I believe clean architecture and thoughtful UI are two sides of the same coin.
+
+Currently focused on building polished cross-platform apps and sharpening my problem-solving skills daily on LeetCode.
 
 </td>
-<td align="center" width="25%">
+<td width="10%"></td>
+<td width="40%" valign="top">
 
-### ⚙️ State Mgmt
-![](https://img.shields.io/badge/Provider-818cf8?style=flat-square)
-![](https://img.shields.io/badge/Riverpod-818cf8?style=flat-square)
-![](https://img.shields.io/badge/GetX-818cf8?style=flat-square)
-![](https://img.shields.io/badge/BLoC-818cf8?style=flat-square)
-![](https://img.shields.io/badge/setState-818cf8?style=flat-square)
-![](https://img.shields.io/badge/InheritedWidget-818cf8?style=flat-square)
+**Now**
 
-</td>
-<td align="center" width="25%">
-
-### 🌐 Integrations
-![](https://img.shields.io/badge/REST_APIs-f472b6?style=flat-square)
-![](https://img.shields.io/badge/Firebase_Auth-f472b6?style=flat-square)
-![](https://img.shields.io/badge/Firestore-f472b6?style=flat-square)
-![](https://img.shields.io/badge/Push_Notif-f472b6?style=flat-square)
-![](https://img.shields.io/badge/Google_Maps-f472b6?style=flat-square)
-![](https://img.shields.io/badge/Stripe-f472b6?style=flat-square)
-
-</td>
-<td align="center" width="25%">
-
-### 🧪 Architecture
-![](https://img.shields.io/badge/Clean_Arch-4ade80?style=flat-square)
-![](https://img.shields.io/badge/MVVM-4ade80?style=flat-square)
-![](https://img.shields.io/badge/Repository-4ade80?style=flat-square)
-![](https://img.shields.io/badge/Dep_Injection-4ade80?style=flat-square)
-![](https://img.shields.io/badge/Unit_Testing-4ade80?style=flat-square)
-![](https://img.shields.io/badge/TDD-4ade80?style=flat-square)
+```
+→  Building  · Flutter apps
+→  Learning  · Clean Architecture
+→  Solving   · LeetCode daily
+→  Status    · Open to collaborate
+```
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
 ---
 
-## 💙 Skill Analytics      
+<br/>
+
+<div align="center"><sub>STACK</sub></div>
+
+<br/>
+
 <div align="center">
 
-| Skill | Progress | Score |
-|:------|:---------|------:|
-| 💙 Flutter / Dart | ![90%](https://progress-bar.xyz/90/?scale=100&width=650&color=38bdf8&suffix=%) | **90%** |
-| 🎨 UI / UX Design | ![87%](https://progress-bar.xyz/87/?scale=100&width=650&color=f472b6&suffix=%) | **87%** |
-| 🔥 Firebase | ![82%](https://progress-bar.xyz/82/?scale=100&width=650&color=818cf8&suffix=%) | **82%** |
-| 🌐 REST API | ![79%](https://progress-bar.xyz/79/?scale=100&width=650&color=fb923c&suffix=%) | **79%** |
-| ⚙️ State Management | ![76%](https://progress-bar.xyz/76/?scale=100&width=650&color=4ade80&suffix=%) | **76%** |
-| 🧪 Architecture | ![72%](https://progress-bar.xyz/72/?scale=100&width=650&color=a78bfa&suffix=%) | **72%** | 
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=02569B)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=flat-square&logo=dart&logoColor=0175C2)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-1a1a2e?style=flat-square&logo=android-studio&logoColor=3DDC84)
+
+<br/>
+
+**State Management**
+
+![Provider](https://img.shields.io/badge/Provider-1a1a2e?style=flat-square&logo=flutter&logoColor=818cf8)&nbsp;
+![Riverpod](https://img.shields.io/badge/Riverpod-1a1a2e?style=flat-square&logo=flutter&logoColor=00B4D8)&nbsp;
+![GetX](https://img.shields.io/badge/GetX-1a1a2e?style=flat-square&logo=flutter&logoColor=8B5CF6)&nbsp;
+![BLoC](https://img.shields.io/badge/BLoC-1a1a2e?style=flat-square&logo=flutter&logoColor=6366F1)
+
+<br/>
+
+**Backend & Data**
+
+![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28)&nbsp;
+![Firestore](https://img.shields.io/badge/Firestore-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=flat-square&logo=sqlite&logoColor=07405e)&nbsp;
+![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=flat-square&logo=fastapi&logoColor=FF6B35)
+
+<br/>
+
+**Architecture**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=flat-square&logo=buffer&logoColor=4ade80)&nbsp;
+![MVVM](https://img.shields.io/badge/MVVM-1a1a2e?style=flat-square&logo=buffer&logoColor=4ade80)&nbsp;
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-1a1a2e?style=flat-square&logo=buffer&logoColor=4ade80)&nbsp;
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-1a1a2e?style=flat-square&logo=buffer&logoColor=4ade80)
+
+<br/>
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05033)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=flat-square&logo=postman&logoColor=FF6C37)&nbsp;
+![DSA](https://img.shields.io/badge/DSA-1a1a2e?style=flat-square&logo=leetcode&logoColor=FFA116)
 
 </div>
 
----
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&theme=tokyo-night&area=true&hide_border=true&custom_title=Saad%27s%20Contribution%20Graph&cache_seconds=86400" alt="GitHub Activity Graph" />
-</p>
+<br/>
 
 ---
 
-## 🐍 Contribution Snake
+<br/>
+
+<div align="center"><sub>GITHUB</sub></div>
+
+<br/>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake-dark.svg" />                    
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake.svg" />
-    <img
-      src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/output/github-contribution-grid-snake-dark.svg"
-      alt="GitHub contribution grid snake animation"
-      width="100%"
-    />
-  </picture>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=ccccdd&icon_color=38bdf8&text_color=888899&ring_color=38bdf8&count_private=true&hide_title=true" />
+&nbsp;&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=ccccdd&text_color=888899&hide_title=true&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saad0077-ss&hide_border=true&background=0d0d14&ring=38bdf8&fire=38bdf8&currStreakLabel=ccccdd&sideLabels=888899&dates=555566&currStreakNum=ccccdd&sideNums=ccccdd&stroke=0d0d14" width="55%"/>
+
 </div>
+
+<br/>
 
 ---
 
@@ -183,23 +150,23 @@ class MuhammedSaad extends FlutterDeveloper {
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total_Solved-191-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1a1a2e&color=1a1a2e" />
+      <img src="https://img.shields.io/badge/Total_Solved-191-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d0d14&color=0d0d14" />
     </td>
   </tr>
   <tr><td align="center">&nbsp;</td></tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Easy-145-00b8a3?style=flat-square&labelColor=1a1a2e&color=1a1a2e" />
+      <img src="https://img.shields.io/badge/Easy-145-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" />
       &nbsp;
-      <img src="https://img.shields.io/badge/Medium-34-FFC01E?style=flat-square&labelColor=1a1a2e&color=1a1a2e" />
+      <img src="https://img.shields.io/badge/Medium-34-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" />
       &nbsp;
-      <img src="https://img.shields.io/badge/Hard-12-EF4743?style=flat-square&labelColor=1a1a2e&color=1a1a2e" />
+      <img src="https://img.shields.io/badge/Hard-12-EF4743?style=flat-square&labelColor=0d0d14&color=0d0d14" />
     </td>
   </tr>
   <tr><td align="center">&nbsp;</td></tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Global_Rank-%23844%2C679-38bdf8?style=flat-square&logo=leetcode&logoColor=38bdf8&labelColor=1a1a2e&color=1a1a2e" />
+      <img src="https://img.shields.io/badge/Global_Rank-%23844%2C679-38bdf8?style=flat-square&logo=leetcode&logoColor=38bdf8&labelColor=0d0d14&color=0d0d14" />
     </td>
   </tr>
 </table>
@@ -213,56 +180,40 @@ class MuhammedSaad extends FlutterDeveloper {
 
 </div>
 
----
-
-## 🌱 Currently Leveling Up
-<div align="center">
-<table width="200%"> 
-<tr>
-<th></th><th align="left">Topic</th><th align="left">Focus Area</th>
-</tr>
-<tr><td>🔷</td><td><b>Advanced Flutter Animations</b></td><td>Rive + Lottie</td></tr>
-<tr><td>🔷</td><td><b>Clean Architecture</b></td><td>Domain-Driven Design</td></tr>
-<tr><td>🔷</td><td><b>Flutter Web</b></td><td>Responsive & PWA</td></tr>
-<tr><td>🔷</td><td><b>CI/CD Pipelines</b></td><td>GitHub Actions</td></tr>
-<tr><td>🔷</td><td><b>Accessibility & Performance</b></td><td>Profiling & Optimization</td></tr>
-</table>
-</div>  
+<br/>
 
 ---
 
-## 💬 Dev Philosophy
+<br/>
 
-> *"I don't just write code — I craft experiences.*
-> *Every widget, every animation, every pixel matters."*
->
-> — Muhammed Saad C
+<div align="center"><sub>CONTRIBUTION GRAPH</sub></div>
 
----
-
-## 🤝 Let's Build Something Amazing
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedsaadc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammedsaadc)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedsaadc@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=safari&logoColor=white)](https://muhammedsaadc.dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/_sa____ad_)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=38bdf8&line=38bdf8&point=ccccdd&area=true&area_color=1a2a4a&hide_border=true" width="92%"/>
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
-### 💡 Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://komarev.com/ghpvc/?username=saad0077-ss&color=38bdf8&style=flat&label=visitors"/>
 
-</div>
+<br/><br/>
 
----
+<sub>Kerala, India &nbsp;·&nbsp; muhammedsaadc@gmail.com &nbsp;·&nbsp; open to collaborate</sub>
 
-<div align="center">   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1a1a1a,100:000000&height=130&section=footer&animation=fadeIn"/>
+<br/><br/>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=12&pause=9999&color=333344&center=true&vCenter=true&width=300&lines=crafted+with+care+%C2%B7+2026" alt="" />
+</picture>
+
 </div>
