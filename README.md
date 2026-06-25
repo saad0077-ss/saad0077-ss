@@ -111,17 +111,16 @@ class MuhammedSaad extends FlutterDeveloper {
 <div align="center">
 
 <!-- Auto-updated every 6 hours via GitHub Actions workflow -->
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&ring[...]
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=[...]
-
+ 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&ring_color=13B9FD&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=6&card_width=260" alt="Top Languages" />
 <br/><br/>
-
+ 
 <img src="./profile/streak.svg" alt="GitHub Streak" /> 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=13B9FD&line=13B9FD&point=ffffff&area=true&area_color=02569B&hide_border=true&custom_titl[...]
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=13B9FD&line=13B9FD&point=ffffff&area=true&area_color=02569B&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" /> 
 
 </div>
 
@@ -180,11 +179,9 @@ class MuhammedSaad extends FlutterDeveloper {
 <sub>Kerala, India &nbsp;·&nbsp; muhammedsaad007700@gmail.com &nbsp;·&nbsp; open to collaborate</sub>
 
 <br/><br/>
-
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=9999&color=556070&center=true&vCenter=true&width=300&lines=crafted+with+%F0%9F%92%99+%26+Flutter+%C2[...]
+<picture> 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=9999&color=556070&center=true&vCenter=true&width=300&lines=crafted+with+%F0%9F%92%99+%26+Flutter+%C2%B7+2026" alt="crafted with 💙 & Flutter · 2026" />
 </picture>
-
 </div>
 
 <!-- last-updated: 2026-06-25 08:38 UTC -->
