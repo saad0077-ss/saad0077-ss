@@ -14,7 +14,7 @@
         <defs>
             <clipPath id='outer_rectangle'>
                 <rect width='495' height='195' rx='14'/>
-            </clipPath>                    
+            </clipPath>
             <mask id='mask_out_ring_behind_fire'>
                 <rect width='495' height='195' fill='white'/>
                 <ellipse id='mask-ellipse' cx='247.5' cy='32' rx='13' ry='18' fill='black'/>
