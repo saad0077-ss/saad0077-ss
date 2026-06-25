@@ -172,36 +172,44 @@ class MuhammedSaad extends FlutterDeveloper {
 
 ---
 
-## 🧩 LeetCode Progress
+<br/>
 
-<div align="center">
+<div align="center"><sub>LEETCODE</sub></div>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-_sa____ad_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/_sa____ad_)
-
-</div>
+<br/>
 
 <div align="center">
 
 <table>
-<tr>
-<td align="center" valign="top">
-
-### 📈 Stats
-<a href="https://leetcode.com/_sa____ad_" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/_sa____ad_?theme=dark&font=Fira_Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
-</a>
-
-</td>
-<!-- <td align="center" valign="top">
-
-### 🎖️ Badges
-<a href="https://leetcode.com/_sa____ad_" target="_blank">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=_sa____ad_&theme=dark&animated=true&border=0" alt="LeetCode Badges" />
-</a>
-
-</td> -->
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Solved-191-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1a1a2e&color=1a1a2e" />
+    </td>
+  </tr>
+  <tr><td align="center">&nbsp;</td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Easy-145-00b8a3?style=flat-square&labelColor=1a1a2e&color=1a1a2e" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Medium-34-FFC01E?style=flat-square&labelColor=1a1a2e&color=1a1a2e" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Hard-12-EF4743?style=flat-square&labelColor=1a1a2e&color=1a1a2e" />
+    </td>
+  </tr>
+  <tr><td align="center">&nbsp;</td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Global_Rank-%23844%2C679-38bdf8?style=flat-square&logo=leetcode&logoColor=38bdf8&labelColor=1a1a2e&color=1a1a2e" />
+    </td>
+  </tr>
 </table>
+
+<br/>
+
+<!-- 50 Days Badge -->
+<a href="https://leetcode.com/_sa____ad_">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="110" title="50 Days Badge"/>
+</a>
 
 </div>
 
