@@ -29,32 +29,26 @@ M  U  H  A  M  M  E  D     S  A  A  D     C
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## 🧠 About Me
 
-**About**
+```dart
+class MuhammedSaad extends FlutterDeveloper {
+  final String name     = "Muhammed Saad C";
+  final String role     = "Flutter Developer";
+  final String location = "Kerala, India 🌴";
+  final String passion  = "Building pixel-perfect mobile experiences";
 
-I craft pixel-perfect, performant mobile experiences with Flutter — where clean architecture and thoughtful UI design work hand in hand.
+  List<String> get superpowers => [
+    "📱 Crafting beautiful, smooth Flutter UIs",
+    "🔥 Firebase & real-time app architecture",
+    "🎯 State management (GetX / Riverpod / BLoC)",
+    "⚡ App performance optimization",
+    "🎨 Turning Figma designs into living UIs",
+  ];
 
-Currently focused on building scalable applications and sharpening my problem-solving skills daily on LeetCode.
-
-</td>
-<td width="10%"></td>
-<td width="40%" valign="top">
-
-**Now**
-
+  String toString() => "Code 💙 Create 🚀 Contribute ✨";
+}
 ```
-→  Building  · Flutter Apps
-→  Learning  · Clean Arch
-→  Solving   · LeetCode
-→  Status    · Open to work
-```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
