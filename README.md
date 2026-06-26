@@ -111,11 +111,11 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <!-- Auto-updated every 6 hours via GitHub Actions workflow -->
  
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&ring_color=13B9FD&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=6&card_width=260" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saad0077-ss&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=13B9FD&icon_color=54C5F8&text_color=ccccdd&ring_color=13B9FD&cache_seconds=14400" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=6&card_width=260&cache_seconds=14400" alt="Top Languages" />
 <br/><br/>
  
-<img src="./profile/streak.svg" alt="GitHub Streak" /> 
+<img src="./profile/streak.svg" alt="GitHub Streak" />     
  
 <br/><br/>            
 
