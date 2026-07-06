@@ -17,7 +17,7 @@ M  U  H  A  M  M  E  D     S  A  A  D     C
                                     
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=flat&logo=linkedIn&logoColor=54C5F8)](https://www.linkedin.com/in/muhammed-saad-c/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0f?style=flat&logo=linkedin&logoColor=54C5F8)](https://www.linkedin.com/in/muhammed-saad-c/)&nbsp;
 [![LeetCode](https://img.shields.io/badge/-LeetCode-0a0a0f?style=flat&logo=leetcode&logoColor=ffa116)](https://leetcode.com/_sa____ad_)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-0a0a0f?style=flat&logo=gmail&logoColor=ea4335)](mailto:muhammedsaad007700@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0f?style=flat&logo=safari&logoColor=54C5F8)](https://saad00.vercel.app/)&nbsp;
@@ -50,6 +50,7 @@ class MuhammedSaad extends FlutterDeveloper {
     "🎨 Turning Figma designs into living UIs",
   ];
 
+  @override
   String toString() => "Code 💙 Create 🚀 Contribute ✨";
 }
 ```
@@ -84,10 +85,10 @@ class MuhammedSaad extends FlutterDeveloper {
 ![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=FF6B35)
 
 #### Architecture & Practices
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=for-the-badge&logo=buffer&logoColor=4ade80)
-![MVVM](https://img.shields.io/badge/MVVM-1a1a2e?style=for-the-badge&logo=buffer&logoColor=4ade80)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-1a1a2e?style=for-the-badge&logo=buffer&logoColor=4ade80)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-1a1a2e?style=for-the-badge&logo=buffer&logoColor=4ade80)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=for-the-badge&logoColor=4ade80)
+![MVVM](https://img.shields.io/badge/MVVM-1a1a2e?style=for-the-badge&logoColor=4ade80)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-1a1a2e?style=for-the-badge&logoColor=4ade80)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-1a1a2e?style=for-the-badge&logoColor=4ade80)
 
 #### Tools & Design
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05033)
@@ -115,7 +116,7 @@ class MuhammedSaad extends FlutterDeveloper {
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=6&card_width=260&cache_seconds=14400" alt="Top Languages" />
 <br/><br/>
  
-<img src="./profile/streak.svg" alt="GitHub Streak" />     
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saad0077-ss&hide_border=true&background=0d0d14&ring=13B9FD&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=ccccdd&currStreakNum=ccccdd&sideNums=ccccdd&dates=888899" alt="GitHub Streak" />
  
 <br/><br/>            
 
