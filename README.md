@@ -139,7 +139,7 @@ class MuhammedSaad extends FlutterDeveloper {
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total_Solved-214-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" alt="Total Solved" />
+      <img src="https://img.shields.io/badge/Total_Solved-215-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" alt="Total Solved" />
     </td>
   </tr>
   <tr><td align="center">&nbsp;</td></tr>
@@ -147,7 +147,7 @@ class MuhammedSaad extends FlutterDeveloper {
     <td align="center">
       <img src="https://img.shields.io/badge/Easy-147-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Easy" />
       &nbsp;
-      <img src="https://img.shields.io/badge/Medium-43-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Medium" />
+      <img src="https://img.shields.io/badge/Medium-44-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Medium" />
       &nbsp;
       <img src="https://img.shields.io/badge/Hard-24-EF4743?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Hard" />
     </td>
