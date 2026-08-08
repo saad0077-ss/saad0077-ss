@@ -139,13 +139,13 @@ class MuhammedSaad extends FlutterDeveloper {
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Total_Solved-232-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" alt="Total Solved" />
+      <img src="https://img.shields.io/badge/Total_Solved-233-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" alt="Total Solved" />
     </td>
   </tr>
   <tr><td align="center">&nbsp;</td></tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Easy-154-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Easy" />
+      <img src="https://img.shields.io/badge/Easy-155-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Easy" />
       &nbsp;
       <img src="https://img.shields.io/badge/Medium-51-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Medium" />
       &nbsp;
