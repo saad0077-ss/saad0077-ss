@@ -116,7 +116,7 @@ class MuhammedSaad extends FlutterDeveloper {
 <img height="170" src="https://github-readme-stats-five-bice-8wrrx2ihl7.vercel.app/api/top-langs/?username=saad0077-ss&layout=compact&hide_border=true&bg_color=0d0d14&title_color=13B9FD&text_color=ccccdd&langs_count=6&card_width=260&cache_seconds=14400" alt="Top Languages" />
 <br/><br/>
  
-<img src="https://streak-stats.demolab.com/?user=saad0077-ss&hide_border=true&background=0d0d14&ring=13B9FD&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=ccccdd&currStreakNum=ccccdd&sideNums=ccccdd&dates=888899" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=saad0077-ss&hide_border=true&background=0d0d14&ring=13B9FD&fire=13B9FD&currStreakLabel=13B9FD&sideLabels=ccccdd&currStreakNum=ccccdd&sideNums=ccccdd&dates=888899" alt="GitHub Streak" />
  
 <br/><br/>            
 
