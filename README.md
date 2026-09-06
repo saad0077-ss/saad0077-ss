@@ -120,7 +120,11 @@ class MuhammedSaad extends FlutterDeveloper {
  
 <br/><br/>            
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad0077-ss&bg_color=0d0d14&color=13B9FD&line=13B9FD&point=ffffff&area=true&area_color=02569B&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" /> 
+<!-- Switched to github.pumbas.net after github-readme-activity-graph.vercel.app
+     started returning HTTP 402 (shared instance over its usage quota — see
+     github.com/Ashutosh00710/github-readme-activity-graph/issues/197). -->
+<img src="https://github.pumbas.net/api/contributions/saad0077-ss?colour=13B9FD&bgColour=0d0d14&dotColour=ffffff&days=31" width="95%" alt="Contribution Graph" />
+
 
 </div>
 
