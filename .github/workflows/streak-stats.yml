@@ -16,7 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.repository.default_branch }}
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Create profile folder
         run: mkdir -p profile
@@ -35,26 +37,20 @@ jobs:
             "https://streak-stats.demolab.com?user=saad0077-ss&hide_border=true&border_radius=14&background=0D1117&ring=00E5FF&fire=00BCD4&currStreakLabel=00E5FF&sideLabels=00BCD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=546E7A&stroke=001F2B" \
             -H "Cache-Control: no-cache"
           then
-            echo "✅ Streak stats downloaded successfully"
+            echo "Streak stats downloaded successfully"
           else
-            echo "⚠️ Failed to download streak stats"
+            echo "Failed to download streak stats"
 
             if [ -f profile/streak.svg ]; then
               echo "Keeping existing streak.svg"
             else
-              echo "❌ No previous streak.svg exists"
+              echo "No previous streak.svg exists"
               exit 1
             fi
           fi
 
       - name: Show file size
-        run: |
-          if [ -f profile/streak.svg ]; then
-            ls -lh profile/streak.svg
-          else
-            echo "❌ profile/streak.svg does not exist"
-            exit 1
-          fi
+        run: ls -lh profile/streak.svg
 
       - name: Commit and push if changed
         shell: bash
@@ -65,9 +61,11 @@ jobs:
           git add profile/streak.svg
 
           if git diff --cached --quiet; then
-            echo "✅ No changes to commit"
+            echo "No changes to commit"
           else
             git commit -m "chore: update streak stats [skip ci]"
-            git push origin HEAD:${{ github.event.repository.default_branch }}
-            echo "✅ Streak stats updated and pushed"
+
+            git push origin HEAD:main
+
+            echo "Streak stats updated and pushed"
           fi
