@@ -2,42 +2,72 @@ name: Update Streak Stats
 
 on:
   schedule:
-    - cron: "*/15 * * * *"               
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
 
       - name: Create profile folder
         run: mkdir -p profile
 
       - name: Download streak stats
+        shell: bash
         run: |
           echo "Fetching streak for saad0077-ss..."
-          curl -f -L -o profile/streak.svg \
-            "https://streak-stats.demolab.com?user=saad0077-ss&hide_border=true&border_radius=14&background=0D1117&ring=00E5FF&fire=00BCD4&currStreakLabel=00E5FF&sideLabels=00BCD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=546E7A&stroke=001F2B" \
-            -H "Cache-Control: no-cache" || echo "❌ Fetch failed, keeping previous file"
 
-      - name: Show file size (debug)
-        run: ls -lh profile/streak.svg
+          if curl -fL \
+            --retry 3 \
+            --retry-delay 5 \
+            --connect-timeout 15 \
+            --max-time 60 \
+            -o profile/streak.svg \
+            "https://streak-stats.demolab.com?user=saad0077-ss&hide_border=true&border_radius=14&background=0D1117&ring=00E5FF&fire=00BCD4&currStreakLabel=00E5FF&sideLabels=00BCD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=546E7A&stroke=001F2B" \
+            -H "Cache-Control: no-cache"
+          then
+            echo "✅ Streak stats downloaded successfully"
+          else
+            echo "⚠️ Failed to download streak stats"
+
+            if [ -f profile/streak.svg ]; then
+              echo "Keeping existing streak.svg"
+            else
+              echo "❌ No previous streak.svg exists"
+              exit 1
+            fi
+          fi
+
+      - name: Show file size
+        run: |
+          if [ -f profile/streak.svg ]; then
+            ls -lh profile/streak.svg
+          else
+            echo "❌ profile/streak.svg does not exist"
+            exit 1
+          fi
 
       - name: Commit and push if changed
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
+
           git add profile/streak.svg
-          
+
           if git diff --cached --quiet; then
             echo "✅ No changes to commit"
           else
             git commit -m "chore: update streak stats [skip ci]"
-            git push
+            git push origin HEAD:${{ github.event.repository.default_branch }}
             echo "✅ Streak stats updated and pushed"
           fi
