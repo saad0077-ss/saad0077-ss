@@ -2,13 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # Runs every 30 minutes
-  workflow_dispatch:         # Allows manual trigger
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
