@@ -169,9 +169,13 @@ class MuhammedSaad extends FlutterDeveloper {
 <a href="https://leetcode.com/_sa____ad_">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="110" title="50 Days Badge" alt="LeetCode 50 Days Badge"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/_sa____ad_">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="110" title="100 Days Badge" alt="LeetCode 100 Days Badge"/>
+</a>
 
 </div>
-
+ 
 <br/>
 
 ---
