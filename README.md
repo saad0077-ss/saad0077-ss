@@ -67,34 +67,42 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <div align="center">
 
-#### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Dart](https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=0175C2)
-![Android Studio](https://img.shields.io/badge/Android_Studio-02569B?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-
-#### State Management
-![Provider](https://img.shields.io/badge/Provider-1a1a2e?style=for-the-badge&logo=flutter&logoColor=818cf8)
-![Riverpod](https://img.shields.io/badge/Riverpod-1a1a2e?style=for-the-badge&logo=flutter&logoColor=00B4D8)
-![GetX](https://img.shields.io/badge/GetX-1a1a2e?style=for-the-badge&logo=flutter&logoColor=8B5CF6)
-![BLoC](https://img.shields.io/badge/BLoC-1a1a2e?style=for-the-badge&logo=flutter&logoColor=6366F1)
-
-#### Backend & Data
-![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Firestore](https://img.shields.io/badge/Firestore-1a1a2e?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=07405e)
-![REST API](https://img.shields.io/badge/REST_API-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=FF6B35)
-
-#### Architecture & Practices
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=for-the-badge&logoColor=4ade80)
-![MVVM](https://img.shields.io/badge/MVVM-1a1a2e?style=for-the-badge&logoColor=4ade80)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-1a1a2e?style=for-the-badge&logoColor=4ade80)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-1a1a2e?style=for-the-badge&logoColor=4ade80)
-
-#### Tools & Design
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05033)
-![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![DSA](https://img.shields.io/badge/DSA-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+<table>
+  <tr>
+    <td align="center" width="120"><sub>📱<br/><b>Mobile</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=flutter" width="56" height="56" alt="Flutter" title="Flutter" /><br/><sub>Flutter</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=dart" width="56" height="56" alt="Dart" title="Dart" /><br/><sub>Dart</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=androidstudio" width="56" height="56" alt="Android Studio" title="Android Studio" /><br/><sub>Android Studio</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><sub>🎯<br/><b>State</b></sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/provider.svg" width="56" height="56" alt="Provider" title="Provider" /><br/><sub>Provider</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/riverpod.svg" width="56" height="56" alt="Riverpod" title="Riverpod" /><br/><sub>Riverpod</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/getx.svg" width="56" height="56" alt="GetX" title="GetX" /><br/><sub>GetX</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/bloc.svg" width="56" height="56" alt="BLoC" title="BLoC" /><br/><sub>BLoC</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><sub>🔥<br/><b>Backend &amp; Data</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=firebase" width="56" height="56" alt="Firebase" title="Firebase" /><br/><sub>Firebase</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/firestore.svg" width="56" height="56" alt="Firestore" title="Firestore" /><br/><sub>Firestore</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=sqlite" width="56" height="56" alt="SQLite" title="SQLite" /><br/><sub>SQLite</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/restapi.svg" width="56" height="56" alt="REST API" title="REST API" /><br/><sub>REST API</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><sub>🏛️<br/><b>Architecture</b></sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/cleanarch.svg" width="56" height="56" alt="Clean Arch" title="Clean Arch" /><br/><sub>Clean Arch</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/mvvm.svg" width="56" height="56" alt="MVVM" title="MVVM" /><br/><sub>MVVM</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/repository.svg" width="56" height="56" alt="Repository" title="Repository" /><br/><sub>Repository</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/testing.svg" width="56" height="56" alt="Unit Testing" title="Unit Testing" /><br/><sub>Unit Testing</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><sub>🛠️<br/><b>Tools &amp; Design</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="56" height="56" alt="Git" title="Git" /><br/><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=figma" width="56" height="56" alt="Figma" title="Figma" /><br/><sub>Figma</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?theme=dark&i=postman" width="56" height="56" alt="Postman" title="Postman" /><br/><sub>Postman</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/dsa.svg" width="56" height="56" alt="DSA" title="DSA" /><br/><sub>DSA</sub></td>
+  </tr>
+</table>
 
 </div>
 
