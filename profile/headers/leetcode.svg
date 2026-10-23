@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="70" viewBox="0 0 800 70">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#13B9FD" stop-opacity="0"/><stop offset="1" stop-color="#13B9FD" stop-opacity=".9"/></linearGradient>
+<linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#13B9FD" stop-opacity=".9"/><stop offset="1" stop-color="#13B9FD" stop-opacity="0"/></linearGradient></defs>
+<rect x="97" y="27" width="190" height="1.5" fill="url(#l)"/><rect x="513" y="27" width="190" height="1.5" fill="url(#r)"/>
+<rect x="293" y="23.5" width="8" height="8" transform="rotate(45 297 27.5)" fill="#13B9FD"/>
+<rect x="499" y="23.5" width="8" height="8" transform="rotate(45 503 27.5)" fill="#13B9FD"/>
+<text x="403" y="34" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="19" letter-spacing="6" fill="#e6e8f2">LEETCODE</text>
+<text x="400" y="60" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#6b7088">// sharpening the problem-solving edge</text>
+</svg>
