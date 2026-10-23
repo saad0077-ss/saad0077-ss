@@ -1,5 +1,4 @@
 <div align="center">
-
 <img width="100%" src="profile/github_banner.png" alt="Hi, I'm Muhammed Saad C — Flutter Developer" />
 
 <br/><br/>
@@ -9,23 +8,16 @@
 ```
 M  U  H  A  M  M  E  D     S  A  A  D     C
 ```
-
 <sub><sup>FLUTTER SPECIALIST &nbsp;·&nbsp; PROBLEM SOLVER &nbsp;·&nbsp; BUILDER</sup></sub>
-
 <br/><br/>
-
 <a href="https://www.linkedin.com/in/muhammed-saad-c/"><img src="https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=54C5F8" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/_sa____ad_"><img src="https://img.shields.io/badge/LeetCode-0d0d14?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 <a href="mailto:muhammedsaad007700@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
 <a href="https://saad00.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d0d14?style=for-the-badge&logo=safari&logoColor=54C5F8" alt="Portfolio" /></a>
 <a href="https://www.instagram.com/_sa.___.ad_/"><img src="https://img.shields.io/badge/Instagram-0d0d14?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=saad0077-ss&color=13B9FD&style=flat&label=profile+views" alt="Profile Views" />
-
 </div>
-
 <br/><br/>
 
 <!-- ─────────────────────────  ABOUT  ───────────────────────── -->
@@ -61,51 +53,32 @@ class MuhammedSaad extends FlutterDeveloper {
 <!-- ─────────────────────────  TECH STACK  ───────────────────────── -->
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/headers/stack.svg" width="600" alt="Tech Stack" />
-
 <br/><br/>
-
 <sub>◆ &nbsp; C O R E &nbsp; &amp; &nbsp; T O O L S &nbsp; ◆</sub>
-
 <br/><br/>
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,androidstudio,git,figma,postman&theme=dark&perline=8" alt="Flutter, Dart, Firebase, SQLite, Android Studio, Git, Figma, Postman" />
-
 <br/><br/><br/>
-
 <sub>◆ &nbsp; S T A T E &nbsp; M A N A G E M E N T &nbsp; ◆</sub>
-
 <br/><br/>
-
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/provider.svg" width="72" alt="Provider" title="Provider" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/riverpod.svg" width="72" alt="Riverpod" title="Riverpod" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/getx.svg" width="72" alt="GetX" title="GetX" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/bloc.svg" width="72" alt="BLoC" title="BLoC" />
-
 <br/><br/><br/>
-
 <sub>◆ &nbsp; A R C H I T E C T U R E &nbsp; &amp; &nbsp; P R A C T I C E S &nbsp; ◆</sub>
-
 <br/><br/>
-
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/cleanarch.svg" width="72" alt="Clean Architecture" title="Clean Architecture" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/mvvm.svg" width="72" alt="MVVM" title="MVVM" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/repository.svg" width="72" alt="Repository Pattern" title="Repository Pattern" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/testing.svg" width="72" alt="Unit Testing" title="Unit Testing" />
-
 <br/><br/><br/>
-
 <sub>◆ &nbsp; D A T A &nbsp; &amp; &nbsp; P R O B L E M &nbsp; S O L V I N G &nbsp; ◆</sub>
-
 <br/><br/>
-
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/firestore.svg" width="72" alt="Firestore" title="Firestore" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/restapi.svg" width="72" alt="REST API" title="REST API" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/stack/dsa.svg" width="72" alt="DSA" title="Data Structures & Algorithms" />
-
 </div>
-
 <br/><br/>
 
 <!-- ─────────────────────────  GITHUB STATS  ───────────────────────── -->
