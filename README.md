@@ -7,9 +7,9 @@
                                     
 ```       
 M  U  H  A  M  M  E  D     S  A  A  D     C           
-```      
-<sub><sup>FLUTTER SPECIALIST &nbsp;·&nbsp; PROBLEM SOLVER &nbsp;·&nbsp; BUILDER</sup></sub>
-<br/><br/>
+```          
+<sub><sup>FLUTTER SPECIALIST &nbsp;·&nbsp; PROBLEM SOLVER &nbsp;·&nbsp; BUILDER</sup></sub>      
+<br/><br/> 
 <a href="https://www.linkedin.com/in/muhammed-saad-c/"><img src="https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=54C5F8" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/_sa____ad_"><img src="https://img.shields.io/badge/LeetCode-0d0d14?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 <a href="mailto:muhammedsaad007700@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
