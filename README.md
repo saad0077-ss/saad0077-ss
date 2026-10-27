@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&pause=3000&color=888899&center=true&vCenter=true&width=300&lines=Flutter+Developer+%C2%B7+Kerala%2C+India" alt="Flutter Developer · Kerala, India" />
                                     
 ```       
-M  U  H  A  M  M  E  D     S  A  A  D     C      
+M  U  H  A  M  M  E  D     S  A  A  D     C                         
 ```          
 <sub><sup>FLUTTER SPECIALIST &nbsp;·&nbsp; PROBLEM SOLVER &nbsp;·&nbsp; BUILDER</sup></sub>      
 <br/><br/>     
