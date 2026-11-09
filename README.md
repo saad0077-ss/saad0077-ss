@@ -6,26 +6,26 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=13&pause=3000&color=888899&center=true&vCenter=true&width=300&lines=Flutter+Developer+%C2%B7+Kerala%2C+India" alt="Flutter Developer · Kerala, India" />                                                
                 
 ```                                                                           
-M  U  H  A  M  M  E  D     S  A  A  D     C            
+M  U  H  A  M  M  E  D     S  A  A  D     C                                                                 
 ```          
-<sub><sup>FLUTTER SPECIALIST &nbsp;·&nbsp; PROBLEM SOLVER &nbsp;·&nbsp; BUILDER</sup></sub>                      
+<sub><sup>FLUTTER SPECIALIST &nbsp;·&nbsp; PROBLEM SOLVER &nbsp;·&nbsp; BUILDER</sup></sub>                                                                
 <br/><br/>     
 <a href="https://www.linkedin.com/in/muhammed-saad-c/"><img src="https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=54C5F8" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/_sa____ad_"><img src="https://img.shields.io/badge/LeetCode-0d0d14?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-<a href="mailto:muhammedsaad007700@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+<a href="mailto:muhammedsaad007700@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>                               
 <a href="https://saad00.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d0d14?style=for-the-badge&logo=safari&logoColor=54C5F8" alt="Portfolio" /></a>
-<a href="https://www.instagram.com/_sa.___.ad_/"><img src="https://img.shields.io/badge/Instagram-0d0d14?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="https://www.instagram.com/_sa.___.ad_/"><img src="https://img.shields.io/badge/Instagram-0d0d14?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>                     
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=saad0077-ss&color=13B9FD&style=flat&label=profile+views" alt="Profile Views" />
 </div>
 <br/><br/>   
+                                   
+<!-- ─────────────────────────  ABOUT  ───────────────────────── -->                          
 
-<!-- ─────────────────────────  ABOUT  ───────────────────────── -->     
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/headers/about.svg" width="600" alt="About Me" />
+<div align="center">                              
+  <img src="https://raw.githubusercontent.com/saad0077-ss/saad0077-ss/HEAD/profile/headers/about.svg" width="600" alt="About Me" />                  
 </div>
-
+                      
 <br/>
 
 ```dart
