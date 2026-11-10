@@ -117,11 +117,11 @@ class MuhammedSaad extends FlutterDeveloper {
 
 <br/><br/>
 
-<a href="https://leetcode.com/_sa____ad_"><img src="https://img.shields.io/badge/Total_Solved-257-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" alt="Total Solved" /></a>
+<a href="https://leetcode.com/_sa____ad_"><img src="https://img.shields.io/badge/Total_Solved-258-13B9FD?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d14" alt="Total Solved" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Easy-162-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Easy" />
+<img src="https://img.shields.io/badge/Easy-163-00b8a3?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Easy" />
 &nbsp;
 <img src="https://img.shields.io/badge/Medium-64-FFC01E?style=flat-square&labelColor=0d0d14&color=0d0d14" alt="Medium" />
 &nbsp;
